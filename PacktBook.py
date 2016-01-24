@@ -1,3 +1,5 @@
+#!/usr/bin/env python
+
 from selenium import webdriver
 
 driver = webdriver.Firefox()
